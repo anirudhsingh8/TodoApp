@@ -14,11 +14,11 @@ This is a simple To-Do app built using **React Native**. The app allows users to
 
 ## Screenshots 📸
 
-### 1. Main Screen (Task List)
+### 1. Main Screen (Empty state)
 
 <img src="./screenshot1.png" alt="To-Do App Task List Screenshot" width="300" />
 
-### 2. Add Task Screen
+### 2. Main screen (With few tasks)
 
 <img src="./screenshot2.png" alt="To-Do App Add Task Screenshot" width="300" />
 
