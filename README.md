@@ -29,7 +29,7 @@ This is a simple To-Do app built using **React Native**. The app allows users to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anirudhsingh8/todo-app.git
+   git clone https://github.com/anirudhsingh8/TodoApp.git
    ```
 
 2. Navigate to the project directory:
